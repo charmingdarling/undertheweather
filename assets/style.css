@@ -1,0 +1,12 @@
+#header
+
+.container {
+  width: 85%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container.container-fluid {
+  width: 92%;
+}
