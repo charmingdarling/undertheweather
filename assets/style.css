@@ -10,3 +10,16 @@
 .container.container-fluid {
   width: 92%;
 }
+
+#weatherIcon {
+  max-width: 100px;
+  display: inline;
+}
+
+#cityName {
+  display: inline;
+}
+/* 
+#fiveDayForecast {
+  display: flex;
+} */
