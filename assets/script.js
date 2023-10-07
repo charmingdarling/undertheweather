@@ -1,5 +1,5 @@
 const apiKey = "d31df2b15d8794b32878041c2acc62e1";
-// Please never do this IRL - especially if your credit card is attached to it
+// ^-- Please never do this IRL - especially if your credit card is attached to it
 const input = document.getElementById("search-input");
 const button = document.getElementById("search-button");
 const cityName = document.getElementById("cityName");
@@ -10,6 +10,7 @@ const currentHumidity = document.getElementById("currentHumidity");
 const fiveDayContainer = document.getElementById("fiveDayForecast");
 const previousSearchBtns = document.getElementById("previousSearchBtns");
 
+// Getting city with latitude and longitude
 function getGeo(city) {
   const geoURL = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=${apiKey}`;
   fetch(geoURL)

@@ -1,6 +1,6 @@
 # 06 Server-Side APIs: Weather Dashboard
 
-## Your Task
+## Task
 
 Our task is to build a 5 Day Weather Forecast that took weather data from different cities by using [Weather Forecast](https://openweathermap.org/forecast5). We utilized longitude and latitude to retrieve the coordinates of the city name and used localStorage to store persistent data.
 
@@ -26,16 +26,10 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-## Mock-Up
+## Demo
 
 The following gif shows the web application's appearance and functionality: ![Weather](./undertheweather.gif)
 
-
-### Repository Quality: 13%
-
-* Quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 # undertheweather
