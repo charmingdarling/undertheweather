@@ -30,6 +30,11 @@ THEN I am again presented with current and future conditions for that city
 
 The following gif shows the web application's appearance and functionality: ![Weather](./undertheweather.gif)
 
+## Links 
+
+[GitHub](https://github.com/charmingdarling/undertheweather)
+[Deployed](https://charmingdarling.github.io/undertheweather/)
+
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 # undertheweather
